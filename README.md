@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-232735?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iveta)
+[![GitHub](https://img.shields.io/badge/GitHub-232735?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvetaRHG)
 
 <em>Почту не публикую — лучше всего писать мне на GitHub.</em>
 
